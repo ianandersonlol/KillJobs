@@ -63,4 +63,3 @@ python killjobs.py -all
 Use `killjobs.py` with caution as it can terminate critical processes, which may lead to system instability or data loss. Always ensure you have saved your work and understand the implications of terminating processes on your system.
 
 Note: This script must be run with appropriate permissions to kill the intended processes. In some cases, you might need to run it with elevated privileges using `sudo`, depending on the ownership of the processes you wish to kill.
-Markdown documentation has been created: ('killjobs', '.py').md
